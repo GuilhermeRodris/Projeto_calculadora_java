@@ -1,2 +1,2 @@
-# Projeto_calculadora_java
+# Projeto calculadora java
 Projeto de uma calculadora feita completamente em java
